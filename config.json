@@ -1,4 +1,9 @@
 {
   "port": 3000,
-  "sessionSecret": "Space Cat"
+  "sessionSecret": "Space Cat",
+  "admin": {
+    "username": "JennLazariuk",
+    "password": "99Nevam!nD"
+  }
 }
+

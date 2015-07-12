@@ -1,1 +1,7 @@
-index.css
+h1 {
+  font-family: sans-serif;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
